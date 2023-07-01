@@ -68,6 +68,15 @@ python3 bot.py
 </p>
 </details>
 
+<details><summary>Deploy To render</summary>
+<p>
+<br>
+<a href="https://render.com/deploy?template=https://github.com/Cybermon3g/Ajax">
+  <img src="https://render.com/deploy?repo=https://github.com/Cybermon3g/Ajax" alt="Deploy">
+</a>
+</p>
+</details>
+
 
 ## Commands
 ```
